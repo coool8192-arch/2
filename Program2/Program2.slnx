@@ -5,5 +5,7 @@
   </Configurations>
   <Project Path="../Class1st (Input System)/Class1st (Input System).vcxproj" Id="a2cda800-cc79-413e-9515-381a8bb2d7ab" />
   <Project Path="../Class2nd (Time)/Class2nd (Time).vcxproj" Id="da98d29d-0fef-45ec-904d-3fcae5dc1112" />
+  <Project Path="../Class3rd (File Input&amp;Output)/Class3rd (File Input&amp;Output).vcxproj" Id="74a34689-235d-4b5a-807f-f530035a524b" />
+  <Project Path="../Class4th (Color System)/Class4th (Color System).vcxproj" Id="036a9cf1-11e8-43ca-aeb5-e729ecbdf805" />
   <Project Path="Program2.vcxproj" Id="963a7e06-da5f-46db-bd16-0179cdcdf2a2" />
 </Solution>
